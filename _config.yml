@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "pl-PL"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "ipflow.pl Sports Photo library"
+title                    : "Biegowa lista eventów"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Karol Olszewski"
@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Karol Olszewski"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Sportowo biegam - zawodowo NETOPS"
+  avatar           : "assets/images/bio-photo.jpg"
+  bio              : "runners world"
   location         : "Poland"
   email            :
   links:
