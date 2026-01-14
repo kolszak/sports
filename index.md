@@ -1,7 +1,14 @@
 ---
+title: "Splash Page"
 layout: splash
-title: "ipflow.photo"
+permalink: /splash-page/
 header:
-  overlay_image: /assets/images/parkrun.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/splash/coffee.jpeg
+  actions:
+    - label: "Download"
+      url: "#test-link"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 author_profile: true
 ---
