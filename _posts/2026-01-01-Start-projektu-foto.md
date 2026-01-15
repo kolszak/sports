@@ -4,6 +4,7 @@ excerpt: "Przykładowy wpis pokazujący podstawowe możliwości motywu Minimal M
 date: 2026-01-14
 categories:
   - blog
+  - foto
 tags:
   - jekyll
   - minimal-mistakes
