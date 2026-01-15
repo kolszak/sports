@@ -33,8 +33,5 @@ feature_row:
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-{% assign p = site.posts.first %}
-<a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-
+{% include feature_row_latest.html type="left" %}
 {% include feature_row %}
