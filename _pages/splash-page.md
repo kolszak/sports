@@ -27,6 +27,7 @@ feature_row:
     url: "/posts/"
     btn_label: "Zobacz listę zdjęć"
     btn_class: "btn--info"
+    type: "center"
   - image_path: /assets/images/parkrun.jpg
     title: "Pływanie"
     excerpt: "Czasem basen"
