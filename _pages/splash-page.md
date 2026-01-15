@@ -16,18 +16,18 @@ feature_row:
   - image_path: /assets/images/parkrun.jpg
     alt: "Parkrun"
     title: "Parkrun Toruń"
-    excerpt: "Parkrun **Toruń**"
+    #excerpt: "Parkrun **Toruń**"
   - image_path: /assets/images/parkrun.jpg
     #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Biegi uliczne"
     title: "Biegi uliczne"
-    excerpt: "Biegi **uliczne** w okolicach Torunia."
-    #url: "#test-link"
-    #btn_label: "Read More"
-    #btn_class: "btn--primary"
+    #excerpt: "Biegi **uliczne** w okolicach Torunia."
+    url: "/posts/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/parkrun.jpg
     title: "Pływanie"
-    excerpt: "Czasem basen"
+    #excerpt: "Czasem basen"
 ---
 
 {% include feature_row id="intro" type="center" %}
