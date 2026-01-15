@@ -25,9 +25,9 @@ feature_row:
     title: "Biegi uliczne"
     excerpt: "Biegi **uliczne** w okolicach Torunia."
     url: "/posts/"
+    type: "center"
     btn_label: "Zobacz listę zdjęć"
     btn_class: "btn--info"
-    type: "center"
   - image_path: /assets/images/parkrun.jpg
     title: "Pływanie"
     excerpt: "Czasem basen"
