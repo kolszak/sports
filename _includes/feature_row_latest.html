@@ -8,8 +8,8 @@
 {% if post %}
 <div class="feature__wrapper">
 
-  <div class="feature__item feature__item--center">
-
+  <!-- LEWA KOLUMNA: TEKST -->
+  <div class="feature__item feature__item--half">
     <div class="feature__content">
       <h2 class="archive__item-title">
         <a href="{{ post.url | relative_url }}">
@@ -18,22 +18,23 @@
       </h2>
 
       <p class="archive__item-excerpt">
-        {{ post.excerpt | strip_html | truncate: 160 }}
+        {{ post.excerpt | strip_html | truncate: 170 }}
       </p>
 
-      <a href="{{ post.url | relative_url }}"
-         class="btn btn--primary">
+      <a href="{{ post.url | relative_url }}" class="btn btn--primary">
         Czytaj najnowszy wpis
       </a>
     </div>
+  </div>
 
+  <!-- PRAWA KOLUMNA: OBRAZ -->
+  <div class="feature__item feature__item--half">
     {% if post.header.teaser %}
-    <div class="feature__image">
-      <img src="{{ post.header.teaser | relative_url }}"
-           alt="{{ post.title }}">
-    </div>
+      <div class="feature__image">
+        <img src="{{ post.header.teaser | relative_url }}"
+             alt="{{ post.title }}">
+      </div>
     {% endif %}
-
   </div>
 
 </div>
