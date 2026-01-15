@@ -10,7 +10,8 @@ header:
   #  - label: "OneDrive"
   #    url: "#test-link"
 intro:
-    - excerpt: "Tutaj znajdziesz linki do zdjęć z imprez sportowych na których fotografowałem. Gdzie mnie znajdziesz:"
+    - excerpt: "Tutaj znajdziesz linki do zdjęć z imprez sportowych na których fotografowałem. 
+                Gdzie mnie znajdziesz:"
 
 feature_row:
   - image_path: /assets/images/parkrun.jpg
