@@ -11,8 +11,9 @@ header:
   #  - label: "OneDrive"
   #    url: "#test-link"
 intro:
-    - excerpt: "Tutaj znajdziesz linki do zdjęć z imprez sportowych na których fotografowałem.<br/>
-                Gdzie mnie znajdziesz:"
+    - excerpt: "Ostatnia impreza biegowa na której fotografowałem:"
+intro2:
+    - excerpt: "***Gdzie mnie spotkasz:"
 feature_row:
   - image_path: /assets/images/parkrun.jpg
     alt: "Parkrun"
@@ -33,4 +34,5 @@ feature_row:
 ---
 {% include feature_row id="intro" type="center" %}
 {% include feature_row_latest.html type="left" %}
+{% include feature_row id="intro2" type="center" %}
 {% include feature_row %}
