@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "Foto"
+excerpt: "zdjęcia z imprez sportowych"
 layout: splash
 permalink: /
 header:
