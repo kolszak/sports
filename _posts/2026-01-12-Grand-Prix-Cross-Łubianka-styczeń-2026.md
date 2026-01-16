@@ -16,7 +16,14 @@ header:
   caption: "Foto: sports.ipflow.pl"
 ---
  
-## Wprowadzenie
+## Skrót
 
-Chcesz zobaczyć nasze najnowsze zdjęcia z biegu?  
+Grand Prix Łubianka 2025/2026 to cykl, który rozpoczął się we wrześniu a zakończy w czerwcu.
+Bieg styczniowy odbył się 01/2026 wokół Zamku Bierzgłowskiego (dwie pętle).
+
+
+## Zdjęcia
+Chcesz zobaczyć nasze najnowsze zdjęcia z biegu?  Link do profilu FB:
+
+{: .notice--warning}
 [Kliknij tutaj, aby zobaczyć album na Facebooku](https://www.facebook.com/kolszak/posts/pfbid02pEacTXxF6VGHCRShYDfttJinnBNm69ya6ux2rwL217yx6dxvF1efwYuUfhJ29K4Pl)
