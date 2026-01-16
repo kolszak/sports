@@ -1,5 +1,6 @@
 ---
 title: "Foto"
+subtitle: "sports.ipflow.pl"
 excerpt: "zdjęcia z imprez sportowych"
 layout: splash
 permalink: /
