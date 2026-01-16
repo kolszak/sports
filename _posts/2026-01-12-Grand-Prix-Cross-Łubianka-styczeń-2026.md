@@ -10,8 +10,8 @@ layout: single
 author_profile: true
 toc: true
 header:
-  teaser: /assets/images/lubianka.jpg
-  overlay_image: /assets/images/lubianka.jpg
+  teaser: /assets/images/lubianka.png
+  overlay_image: /assets/images/lubianka.png
   overlay_filter: 0.4
   caption: "Foto: ipflow.pl"
 ---
