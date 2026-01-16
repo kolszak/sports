@@ -19,7 +19,7 @@ feature_row:
     alt: "Parkrun"
     title: "Parkrun Toruń"
     excerpt: "Parkrun w **Toruniu**"
-    image_caption: "parkrun.pl [wwww](https://parkrun.pl/)"
+    image_caption: "[parkrun.pl](https://parkrun.pl/)"
   - image_path: /assets/images/splash/ulica-splash.jpg
     #image_caption: "Image courtesy of [Unsplash](https://run-torun/)"
     alt: "Biegi uliczne"
