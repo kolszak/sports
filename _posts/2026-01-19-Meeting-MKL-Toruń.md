@@ -52,3 +52,7 @@ Galerie w kolejności czasu zawodów - narastająco.
 
 {: .notice--success}
 [Galeria część 7](https://www.facebook.com/kolszak/posts/pfbid0N4LtUySqrVwwapQ97BoXRBe7i4mpDZgetLfcCUKd5jYWka1L4YXqt29GcBvy1g9xl#)
+
+{: .notice--info}
+[Sędziowie]
+(https://www.facebook.com/kolszak/posts/pfbid02BZVmK7YEbhrWGqA55A9ZHkEfHJVdLcEoTZanBTKSEJTk3Rgqsqzp66tm2LPMzFbyl)
