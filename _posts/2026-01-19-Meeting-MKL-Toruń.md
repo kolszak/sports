@@ -27,20 +27,22 @@ Prawdziwy maraton sportowy :) od 9:00 do prawie 23.
 ## Zdjęcia
 Zdjęcia na FB:
 
-{: .notice--warning}
-[Kliknij tutaj, aby zobaczyć album na Facebooku](https://www.facebook.com/kolszak/posts/pfbid0nKBuCyagx9i7vbbVqeAasjLcE5CnsRaMBfmrVaWFWMewCzS8U77F1cnSQsuzimPJl#)
+Galerie w kolejności czasu zawodów - narastająco.
 
 {: .notice--warning}
-[Galera część 1](https://www.facebook.com/kolszak/posts/pfbid06VWCGkh6ruPBiXEZfszBFD48viGccyVCNDo5LG6it6kLpLmJTo7E1xAZy3og4BM7l#)
+[Zajawka](https://www.facebook.com/kolszak/posts/pfbid0nKBuCyagx9i7vbbVqeAasjLcE5CnsRaMBfmrVaWFWMewCzS8U77F1cnSQsuzimPJl#)
 
-[Galera część 2](https://www.facebook.com/kolszak/posts/pfbid0wNAJuxxDnNkhAJ5ZuSoasEn7LJwop3xifj6UzXz8hFpYRU6iimSKQeGUL8QpamJql#)
+{: .notice--warning}
+[Galeria część 1](https://www.facebook.com/kolszak/posts/pfbid06VWCGkh6ruPBiXEZfszBFD48viGccyVCNDo5LG6it6kLpLmJTo7E1xAZy3og4BM7l#)
 
-[Galera część 3](https://www.facebook.com/kolszak/posts/pfbid0LjExDtbxRcjpdbQq68PEoq93kSWyaG6otkKRKdWDNq2dhNCfR7YwSjd3FtEKzvhwl#)
+[Galeria część 2](https://www.facebook.com/kolszak/posts/pfbid0wNAJuxxDnNkhAJ5ZuSoasEn7LJwop3xifj6UzXz8hFpYRU6iimSKQeGUL8QpamJql#)
 
-[Galera część 4](https://www.facebook.com/kolszak/posts/pfbid04QiatbxN619cBwZb9bkFE1JZmPDXyhAKN1KcAU4368ZpE2KEvfRN4AhAut9Tcu36l#)
+[Galeria część 3](https://www.facebook.com/kolszak/posts/pfbid0LjExDtbxRcjpdbQq68PEoq93kSWyaG6otkKRKdWDNq2dhNCfR7YwSjd3FtEKzvhwl#)
 
-[Galera część 5](https://www.facebook.com/kolszak/posts/pfbid034X3pigHsE3AEQCPBdhkxdzKAEi7WwJHieDHWjZchJFtQk6CKDWP74BPdtqN3YERrl#)
+[Galeria część 4](https://www.facebook.com/kolszak/posts/pfbid04QiatbxN619cBwZb9bkFE1JZmPDXyhAKN1KcAU4368ZpE2KEvfRN4AhAut9Tcu36l#)
 
-[Galera część 6](https://www.facebook.com/kolszak/posts/pfbid02VEsSTxkD4ayPjzv1XJMXRLAbUagKrpgPF6Nyvr4xvebr2pLn2pA3ouAeFgVAqSyJl#)
+[Galeria część 5](https://www.facebook.com/kolszak/posts/pfbid034X3pigHsE3AEQCPBdhkxdzKAEi7WwJHieDHWjZchJFtQk6CKDWP74BPdtqN3YERrl#)
 
-[Galera część 7](https://www.facebook.com/kolszak/posts/pfbid0N4LtUySqrVwwapQ97BoXRBe7i4mpDZgetLfcCUKd5jYWka1L4YXqt29GcBvy1g9xl#)
+[Galeria część 6](https://www.facebook.com/kolszak/posts/pfbid02VEsSTxkD4ayPjzv1XJMXRLAbUagKrpgPF6Nyvr4xvebr2pLn2pA3ouAeFgVAqSyJl#)
+
+[Galeria część 7](https://www.facebook.com/kolszak/posts/pfbid0N4LtUySqrVwwapQ97BoXRBe7i4mpDZgetLfcCUKd5jYWka1L4YXqt29GcBvy1g9xl#)
