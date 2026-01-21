@@ -4,11 +4,6 @@ title: "About me"
 excerpt: "Foto Sport - fork ipflow.pl"
 layout: single
 author_profile: true
-header:
-  teaser: /assets/images/polswim.jpg
-  overlay_image: /assets/images/polswim.jpg
-  overlay_filter: 0.4
-  caption: "https://www.facebook.com/polswim/photos"
 ---
 
 
@@ -38,3 +33,5 @@ Zero pro, tylko sprzęt który można wrzucić do plecaka i na rowerze gonić bi
 
 - i tylko NEF(RAW) :)
 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/polswim.jpg){: .align-center}
