@@ -9,7 +9,7 @@ author_profile: true
 
 
 Czasem biegam :)
-Uwieczniam te momenty apratem<br>
+Uwieczniam te momenty aparatem<br>
 
 
 ## 2025
