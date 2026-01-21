@@ -14,7 +14,7 @@ Czasem biegam :)
 **2025**
 > 10km --> 41:11
 > 42,2km --> 3:51:22
-> 5km -> jeszcze 20:00 nie zdjąłem :)
+> 5km -> jeszcze 20:00 nie zdjąłem :-)
 
 # Sportowo 
 
@@ -22,7 +22,7 @@ Czasem biegam :)
 > rower
 > bieg
 
-`Na piłce nożnej mnie nie spotkasz :)`
+`Na piłce nożnej mnie nie spotkasz 8-)`
 
 # Zdjęcia
 
@@ -31,7 +31,7 @@ Zero pro, tylko sprzęt który można wrzucić do plecaka i na rowerze gonić bi
 + Sigma 70-200 APO DG HSM 2.8
 + Sigma 17-50 2.8 HSM
 + Nikkor - takie KITowe :) 
-+ żadnych Lightroomów, tylko DX Studio
++ żadnych Lightroomów, tylko Nikon DX Studio
 
 * i tylko NEF(RAW) :)
 
