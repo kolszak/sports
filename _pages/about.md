@@ -34,4 +34,4 @@ Zero pro, tylko sprzęt który można wrzucić do plecaka i na rowerze gonić bi
 - i tylko NEF(RAW) :)
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/polswim.jpg){: .align-center}
+{% include figure popup=true image_path="/assets/images/polswim.jpg" alt="Me" caption="https://www.facebook.com/polswim/photos" %}
