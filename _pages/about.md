@@ -9,18 +9,22 @@ author_profile: true
 
 #  O mnie
 
-Czasem biegam :) 
+Czasem biegam :)
+Uwieczniam te momenty apratem 
 
-**2025**
-> +10km --> 41:11
-> +42,2km --> 3:51:22
-> +5km -> jeszcze 20:00 nie zdjąłem :-)
+info@ipflow.pl 
+
+
+## 2025
+> 10km --> 41:11 <br>
+> 42,2km --> 3:51:22 <br>
+> 5km -> jeszcze 20:00 nie zdjąłem :-) <br>
 
 # Sportowo 
 
-> +basen
-> +rower
-> +bieg
+> basen <br>
+> rower <br>
+> bieg <br>
 
 `Na piłce nożnej mnie nie spotkasz :-)`
 
