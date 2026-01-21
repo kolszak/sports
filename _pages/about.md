@@ -7,10 +7,9 @@ author_profile: true
 ---
 
 
-#  O mnie
 
 Czasem biegam :)
-Uwieczniam te momenty apratem 
+Uwieczniam te momenty apratem<br>
 
 info@ipflow.pl 
 
@@ -20,21 +19,20 @@ info@ipflow.pl
 > 42,2km --> 3:51:22 <br>
 > 5km -> jeszcze 20:00 nie zdjąłem :-) <br>
 
-# Sportowo 
+## Sportowo 
 > basen <br>
 > rower <br>
 > bieg <br>
 
-<figure style="width: 80px" class="align-left">
 
 <a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/112082153' target="_clean">
 Follow me on <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
 </a>|
-</figure>
+
 
 `Na piłce nożnej mnie nie spotkasz :-)`
 
-# Zdjęcia
+## Zdjęcia
 
 Zero pro, tylko sprzęt który można wrzucić do plecaka i na rowerze gonić bieg :) 
 + Nikony D5200,D5300,D3100
