@@ -27,5 +27,14 @@ basen,rower,bieg.
 
 Na piłce nożnej mnie nie spotkasz :)
 
+## Zdjęcia
 
+Zero pro, tylko sprzęt który można wrzucić do plecaka i na rowerze gonić bieg :) 
+- Nikony D5200,D5300,D3100
+- Sigma 70-200 APO DG HSM 2.8
+- Sigma 17-50 2.8 HSM
+- Nikkor - takie KITowe :) 
+- żadnych Lightroomów, tylko DX Studio
+
+- i tylko NEF(RAW) :)
 
