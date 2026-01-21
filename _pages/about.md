@@ -37,7 +37,7 @@ Zero pro, tylko sprzęt który można wrzucić do plecaka i na rowerze gonić bi
 + Sigma 70-200 APO DG HSM 2.8
 + Sigma 17-50 2.8 HSM
 + Nikkor - takie KITowe :) 
-+ żadnych Lightroomów, tylko Nikon DX Studio
++ żadnych Lightroomów, wszysto w Paint, bit po bicie i bez kompresji :-)
 
 * i tylko NEF(RAW) :)
 
