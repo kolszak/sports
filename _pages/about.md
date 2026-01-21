@@ -12,17 +12,17 @@ author_profile: true
 Czasem biegam :) 
 
 **2025**
-> 10km --> 41:11
-> 42,2km --> 3:51:22
-> 5km -> jeszcze 20:00 nie zdjąłem :-)
+> +10km --> 41:11
+> +42,2km --> 3:51:22
+> +5km -> jeszcze 20:00 nie zdjąłem :-)
 
 # Sportowo 
 
-> basen
-> rower
-> bieg
+> +basen
+> +rower
+> +bieg
 
-`Na piłce nożnej mnie nie spotkasz 8-)`
+`Na piłce nożnej mnie nie spotkasz :-)`
 
 # Zdjęcia
 
