@@ -1,6 +1,6 @@
 ---
-title: "48. Memoriał Grzegorza Duneckiego"
-excerpt: "48 Memoriał Grzegorza Dunkieckieg - Arena Toruń - miesiąc do niecałe 2mc do Halowych Mistrzostw Świata na tym samym obiekcie "
+title: "48. Memoriał Grzegorza Dunieckiego"
+excerpt: "48 Memoriał Grzegorza Dunieckiego - Arena Toruń - niecałe 2mc do Halowych Mistrzostw Świata na tym samym obiekcie "
 date: 2026-02-01
 categories:
   - foto
