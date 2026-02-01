@@ -25,10 +25,10 @@ Relacja z Finałów na KP Sport (youtube)
 [MKL](http://mkl.torun.pl)
 
 ## Relacja z finałów
-[KP Sport] (https://www.youtube.com/watch?v=euU8ryiDAN4)
+[KP Sport](https://www.youtube.com/watch?v=euU8ryiDAN4)
 
 ## Wyniki Domtel
-[Wyniki] (https://online.domtel-sport.pl/index2.php?impreza=06s2)
+[Wyniki](https://online.domtel-sport.pl/index2.php?impreza=06s2)
 
 ## Zdjęcia Moje:
 Zdjęcia na FB:
