@@ -54,4 +54,6 @@ Galerie w kolejności czasu zawodów - narastająco.
 
 ## Zdjęcia Mateusza Białczyka:
 Portal Lepszy Toruń lepsza Polska:
-{: .notice}[Galeria Lepszy Toruń lepsza Polska – Mateusz Białczyk](https://lepszytorunlepszapolska.pl/48-memorial-grzegorza-duneckiego-mamy-wielka-galerie-zdjec/)
+
+{: .notice}
+[Lepszy Toruń lepsza Polska](https://lepszytorunlepszapolska.pl/48-memorial-grzegorza-duneckiego-mamy-wielka-galerie-zdjec/)
