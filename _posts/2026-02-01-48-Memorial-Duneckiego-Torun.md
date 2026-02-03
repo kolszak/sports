@@ -30,7 +30,7 @@ Relacja z Finałów na KP Sport (youtube)
 ## Wyniki Domtel
 [Wyniki](https://online.domtel-sport.pl/index2.php?impreza=06s2)
 
-## Zdjęcia Moje:
+## Zdjęcia Karol Olszewski:
 Zdjęcia na FB:
 
 Galerie w kolejności czasu zawodów - narastająco.
@@ -52,7 +52,7 @@ Galerie w kolejności czasu zawodów - narastająco.
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1367321032075210%2F&show_text=true&width=267&t=0" width="267" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-## Zdjęcia Mateusza Białczyka:
+## Zdjęcia Mateusza Białczyka
 Portal Lepszy Toruń lepsza Polska:
 
 {: .notice}
