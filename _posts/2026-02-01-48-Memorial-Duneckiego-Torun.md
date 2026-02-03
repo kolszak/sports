@@ -1,6 +1,6 @@
 ---
-title: "48. Memoriał Grzegorza Dunieckiego"
-excerpt: "48 Memoriał Grzegorza Dunieckiego - Arena Toruń - niecałe 2mc do Halowych Mistrzostw Świata na tym samym obiekcie "
+title: "48. Memoriał Grzegorza Duneckiego"
+excerpt: "48 Memoriał Grzegorza Duneckiego - Arena Toruń - niecałe 2mc do Halowych Mistrzostw Świata na tym samym obiekcie "
 date: 2026-02-01
 categories:
   - foto
@@ -19,7 +19,7 @@ header:
  
 ## Skrót
 
-48 Memoriał Grzegorza Dunieckiego Toruń 2026
+48 Memoriał Grzegorza Duneckiego Toruń 2026
 Relacja z Finałów na KP Sport (youtube)
 
 [MKL](http://mkl.torun.pl)
