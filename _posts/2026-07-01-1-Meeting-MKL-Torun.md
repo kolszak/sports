@@ -11,7 +11,7 @@ layout: single
 author_profile: true
 toc: true
 header:
-  teaser: /assets/images/arena.jpg
+  teaser: /assets/images/mkl_2.jpg
   overlay_image: /assets/images/mkl_2.jpg
   overlay_filter: 0.4
   caption: "Foto: sports.ipflow.pl"
