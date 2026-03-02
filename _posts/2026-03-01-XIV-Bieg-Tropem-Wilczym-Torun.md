@@ -18,11 +18,13 @@ header:
  
 ## Skrót
 
-II Ogólnopolski Mityng Lekkoatletyczny MKL Toruń 2026
+Bieg który odbył się 1 marca 2026 w niedziele, start i meta na Stadionie Miejskim w Toruniu. 
 
 
-## Wyniki Domtel
-[Wyniki](https://online.domtel-sport.pl/index2.php?impreza=dqj8)
+## Wyniki STS
+[Wyniki 5km](https://sts-timing.pl/wp-content/uploads/2026/03/Wyniki5-KM.pdf)
+
+[Wyniki 10km](https://sts-timing.pl/wp-content/uploads/2026/03/Wyniki10-KM.pdf) 
 
 ## Zdjęcia Karol Olszewski:
 Zdjęcia na FB:
@@ -32,6 +34,3 @@ Zdjęcia na FB:
 Album ~200 zdjęć.
 
 {: .notice}
-
-{: .notice}
-[Album]()
