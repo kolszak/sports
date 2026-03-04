@@ -1,5 +1,5 @@
 ---
-title: "Ogólnopolski Meeting Lekkoatletyczny Toruń 2026"
+title: "I Ogólnopolski Meeting Lekkoatletyczny Toruń"
 excerpt: "Impreza sportowa zorganizowana przez MKL Toruń dla lekkoatletów z całej Polski."
 date: 2026-01-19
 categories:
