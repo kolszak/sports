@@ -26,9 +26,8 @@ Zdjęcia na FB:
 [Film](https://www.facebook.com/reel/1147228500776668)
 
 
-[Album Zawody](https://www.facebook.com/ipflow.photo/posts/pfbid0UfGd9HH9ExNgsfj6339ZhxnSAfrCVrqwPsQWouMjmt5ztkzgy1j5NJsURSoZWuApl)
+[Album](https://www.facebook.com/ipflow.photo/posts/pfbid0UfGd9HH9ExNgsfj6339ZhxnSAfrCVrqwPsQWouMjmt5ztkzgy1j5NJsURSoZWuApl)
 
-Album ~300 zdjęć.
 
 
 {: .notice}
