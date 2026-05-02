@@ -26,7 +26,7 @@ Zdjęcia na FB:
 [Film](https://www.youtube.com/watch?v=ZY5_u8n9YrM)
 
 
-[Album-1](/https://www.facebook.com/media/set/?set=a.1261049759514255&type=3)
+[Album-1](https://www.facebook.com/media/set/?set=a.1261049759514255&type=3)
 [Album-2](https://www.facebook.com/media/set/?set=a.1261129969506234&type=3)
 
 [Rolka](https://www.facebook.com/reel/1887988165491544)
