@@ -34,7 +34,6 @@ Zdjęcia na FB:
 [Album Bieganie](https://www.facebook.com/media/set/?set=a.1291929999759564&type=3)
 
 
-
 [Wyniki](https://startlist.pl/wyniki)
 
 {: .notice}
