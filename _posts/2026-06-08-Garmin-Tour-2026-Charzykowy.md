@@ -25,8 +25,6 @@ W dniu 07 czerwca 2026 w Charzykowach, powrócił w wielkim stylu Garmin Triathl
 Zdjęcia na FB:
 
 
-
-
 [Album Woda](https://www.facebook.com/media/set/?set=a.1291862023099695&type=3)
 
 [Album Rower](https://www.facebook.com/media/set/?set=a.1291893496429881&type=3)
