@@ -33,6 +33,6 @@ Zdjęcia na FB:
 
 #[Rolka](https://www.facebook.com/reel/1887988165491544)
 
-[Wyniki](https://live.sts-timing.pl/tricharzykowy2026/)
+[Wyniki](https://startlist.pl/wyniki)
 
 {: .notice}
