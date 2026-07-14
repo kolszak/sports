@@ -10,8 +10,8 @@ layout: single
 author_profile: true
 toc: true
 header:
-  teaser: /assets/images/bdg_enea_2026.jpg.jpg
-  overlay_image: /assets/images/bdg_enea_2026.jpg.jpg
+  teaser: /assets/images/bdg_enea_2026.jpg
+  overlay_image: /assets/images/bdg_enea_2026.jpg
   overlay_filter: 0.4
   caption: "Foto: sports.ipflow.pl"
 ---
