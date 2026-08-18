@@ -28,6 +28,6 @@ Zdjęcia na FB:
 
 [Wyniki](https://sts-timing.racetime.net/e/lotto-triathlon-energy-chemza-2026?c=259)
 
-[Album] (<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fipflow.photo%2Fposts%2Fpfbid0ytqiU7miwFSCsTmkZKvn2N1sEbYDTmfStbxqAtWQhHavhKGTrq3YidyMxzr6zL7ul&show_text=true&width=500" width="500" height="652" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fipflow.photo%2Fposts%2Fpfbid0ytqiU7miwFSCsTmkZKvn2N1sEbYDTmfStbxqAtWQhHavhKGTrq3YidyMxzr6zL7ul&show_text=true&width=500" width="500" height="652" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 {: .notice}
