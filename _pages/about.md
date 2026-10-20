@@ -19,15 +19,17 @@ Uwieczniam te momenty aparatem<br>
 
 ## 2026
 > Wings (Zadar) 22km <br>
-> 42,2 --> 3:47:06 <br>
+> Budapeszt Maraton 2026 42,2 --> 3:47:06 <br>
 
 ## Sportowo 
 > basen <br>
 > rower <br>
 > bieg <br>
 
-
-
+## Zawodowo
+> Sieci telco w dużej skali
+> BGP, OSFP, Cisco, Juniper
+> W mniejszej skali też - na innych vendorach :) 
 
 
 ## Zdjęcia
