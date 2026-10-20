@@ -17,6 +17,10 @@ Uwieczniam te momenty aparatem<br>
 > 42,2km --> 3:51:22 <br>
 > 5km -> jeszcze 20:00 nie zdjąłem :-) <br>
 
+## 2026
+> Wings (Zadar) 22km
+> 42,2 --> 3:47:06
+
 ## Sportowo 
 > basen <br>
 > rower <br>
@@ -25,8 +29,6 @@ Uwieczniam te momenty aparatem<br>
 
 
 
-
-`Na piłce nożnej mnie nie spotkasz :-)`
 
 ## Zdjęcia
 
