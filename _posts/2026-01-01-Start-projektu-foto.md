@@ -32,22 +32,5 @@ Znajdziesz tu:
 
 ## Jakie imprezy
 
-Głównie znajdziesz mnie na biegach ulicznych, ale w przypadku imprez sportowych z akredytacją również możesz mnie spotkać
+Biegi uliczne, sport - lekkoatletyka. 
 
-## Jaka drużyna? 
-
-{: .notice--success}
-✅ Zapraszamy do  **parkrunToruń GP Team ** – link w nagłówku
-
-
-
-
----
-
-## Kod
-
-Minimal Mistakes ładnie formatuje kod:
-
-```python
-def hello():
-    print("Hello Minimal Mistakes!")
